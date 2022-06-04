@@ -1,2 +1,2 @@
 # exercicios-python
- Treinando com exercícios propostos
+ Treinando com exercícios propostos pela faculdade
